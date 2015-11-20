@@ -1,6 +1,7 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
-
-for self-checking their submission.
+Control player with arrow keys; up, down, left, right.
+Do not go into the water, you will lose 100points
+Avoid the bugs, touch the bugs lose 100 points.
+Get the heart gain 100 points.
